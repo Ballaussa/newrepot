@@ -4,7 +4,7 @@
     min-width: 1212px;
     height: 74px;
     background-color: rgb(255, 255, 255);
-    display: flex;
+    display: block;
     justify-content: space-between;
     align-items:center;
     margin: 28px 66px 86px 50px;
